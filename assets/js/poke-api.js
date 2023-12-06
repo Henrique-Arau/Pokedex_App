@@ -1,6 +1,5 @@
 
 
-
 const pokeApi = {}
 
 pokeApi.getPokemons = (offset = 0, limit = 10) => {
