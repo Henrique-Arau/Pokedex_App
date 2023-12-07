@@ -8,6 +8,13 @@ body {
 
 }
 
+h1 {
+    background-image: url("/img/Pokédex_logo.png");
+    height: 145px;
+    width: 50%;
+    background-repeat: no-repeat, no-repeat;
+}
+
 .content {
     padding: 1rem;
     background-color: #fff;
